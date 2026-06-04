@@ -1,3 +1,11 @@
+---
+title: RAG Assistant
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
 # 🔍 RAG Assistant — Pergunte sobre seus documentos
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)

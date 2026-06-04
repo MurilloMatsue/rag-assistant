@@ -1,10 +1,9 @@
-langchain==0.3.x
-langchain-community==0.3.x
-langchain-google-genai==2.x
+langchain
+langchain-community
 langchain-huggingface
 langchain-groq
-faiss-cpu==1.8.x
-sentence-transformers==3.x
-pypdf==4.x
-streamlit==1.x
-python-dotenv==1.x
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
+python-dotenv
